@@ -13,7 +13,12 @@ main nav{
     position:absolute; top: 0; right: 0;
     background-color: #f8b5e1;
     z-index: 1000; /* Ensure it's above other content */
-    height: 15px
+    height: 15px;
+}
+
+main nav image{
+    height: 15px;
+    width: 15px;
 }
 
 body {
