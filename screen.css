@@ -1,6 +1,6 @@
 
 * {
-    margin: 15px;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
@@ -27,6 +27,7 @@ main nav{
     border-radius: 1000px;
     display: block;
     float: right;
+    margin: 15px
 }
 
 body {
