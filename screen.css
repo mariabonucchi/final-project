@@ -16,8 +16,13 @@ main nav{
     height: 15px;
 }
 
-img {
+.topimg img {
     width: 20px;
+    border-radius: 4px;
+}
+
+img {
+    width: 40px;
     border-radius: 4px;
 }
 
