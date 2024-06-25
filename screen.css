@@ -25,7 +25,8 @@ main nav{
 .headshot img{
     width: 200px;
     border-radius: 1000px;
-    position:fixed; right;
+    display: block;
+    margin-right: auto;
 }
 
 body {
