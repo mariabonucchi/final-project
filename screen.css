@@ -27,14 +27,13 @@ main nav{
     border-radius: 1000px;
     display: block;
     float: right;
-    margin: 15px
 }
 
 body {
     background: #2b1b52;
     font-family: Helvetica, sans-serif;
     border-top: 15px solid #f8b5e1;
-    margin: 0;
+    margin: 15;
     color:#fff;
 }
 
