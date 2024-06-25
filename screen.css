@@ -16,20 +16,15 @@ main nav{
     height: 15px;
 }
 
-main nav img{
-    height: 15px;
-    width: 15px;
-}
-
 main nav {
     line-height: 50px;
     width: 50px;
-    font-size: 40pt;
+    font-size: 15pt;
     margin-top: 15px;
     margin-right: 15px;
     position:absolute;
-    top:0;
-    right:0;
+    top: 5px;
+    right:5px;
 }
 
 body {
