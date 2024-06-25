@@ -6,7 +6,7 @@
     background-color: #2b1b52
 }
 
-header nav {
+.main {
     position: sticky;
     top: 0;
     background-color: #f8b5e1;
