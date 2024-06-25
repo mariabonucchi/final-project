@@ -5,11 +5,16 @@
     box-sizing: border-box;
 }
 
+main h1{
+    background-color: #f8b5e1;
+}
+
 main nav{
     position: sticky;
     top: 0;
     background-color: #f8b5e1;
     z-index: 1000; /* Ensure it's above other content */
+    range: 15px
 }
 
 body {
