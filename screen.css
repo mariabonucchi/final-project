@@ -16,8 +16,9 @@ main nav{
     height: 15px;
 }
 
-.topimg {
+.topimg nav{
     line-height: 12px;
+    height: 18px;
     width: 18px;
     font-size: 8pt;
     margin-top: 1px;
