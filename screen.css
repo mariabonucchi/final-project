@@ -26,7 +26,7 @@ main nav{
     width: 200px;
     border-radius: 1000px;
     display: block;
-    margin-right: auto;
+    float: right;
 }
 
 body {
