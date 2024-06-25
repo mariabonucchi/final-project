@@ -19,12 +19,12 @@ main nav{
 }
 
 .topimg img{
-    width: 14px;
+    width: 30px;
 }
 
 .headshot img{
-    width: 100px;
-    border-radius: 300px;
+    width: 200px;
+    border-radius: 500px;
 }
 
 body {
