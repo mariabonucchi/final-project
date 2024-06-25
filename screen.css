@@ -6,9 +6,17 @@
     background-color: #2b1b52
 }
 
-.main {
+header main{
     position: sticky;
     top: 0;
     background-color: #f8b5e1;
     z-index: 1000; /* Ensure it's above other content */
+}
+
+body {
+    background: #2b1b52;
+    font-family: Helvetica, sans-serif;
+    border-top: 15px solid #f8b5e1;
+    margin: 0;
+    color:#fff;
 }
