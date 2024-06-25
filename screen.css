@@ -22,7 +22,7 @@ main nav{
     width: 14px;
 }
 
-.headshot {
+header .headshot {
     width: 100px;
     border-radius: 300px;
 }
