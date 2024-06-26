@@ -24,7 +24,7 @@ main nav{
 }
 
 .headshot img{
-    width: 200px;
+    width: 150px;
     border-radius: 10000px;
     display: block;
     float: right;
@@ -101,7 +101,6 @@ body {
     margin-right: 15px;
     color:#0A0931;
     padding: 0;
-    float: right;
     width: 400px;
     line-height: 20px;
     text-align: center;
