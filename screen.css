@@ -46,8 +46,9 @@ body {
 
 .greeting {
     color: #A7A6E3;
-    margin-left: 15px
+    margin-left: 15px;
     padding: 30px;
+    line-height: 30px;
 }
 
 .intro img{
@@ -64,7 +65,7 @@ body {
     color:#0A0931;
     float: left;
     width: 400px;
-    line-height: 7px;
+    line-height: 20px;
 }
 
 .resume {
