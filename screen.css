@@ -111,17 +111,12 @@ body {
     text-align: center;
 }
 
-#wrapper {
-    width: 580px;
-    margin: auto
-}
-
 
 
 * social page *
 
 
-.socials {
+.sm {
     color: #A7A6E3;
     padding-top: 30px;
     padding-bottom: 30px;
