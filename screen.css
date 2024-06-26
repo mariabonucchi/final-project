@@ -9,7 +9,7 @@ main h1{
     background-color: #F7D5ED;
     color: #0A0931;
     padding-left: 30px;
-    font-size:xx-large
+    font-size: xx-large;
 }
 
 main nav{
@@ -57,10 +57,6 @@ body {
 
 .intro img{
     width: 100%
-}
-
-.intro{
-    height: 300px;
 }
 
 .bio {
