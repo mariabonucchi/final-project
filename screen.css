@@ -319,3 +319,12 @@ body {
     width: 150px;
     float: left;
 }
+
+.comments {
+    color:#0A0931;
+    padding: 15px;
+    background: #DBB3D0;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    text-align: center;
+}
