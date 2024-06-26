@@ -258,7 +258,7 @@ body {
     object-position: center;
 }
 
-.logo-1 div {
+.WCSMO-Posts {
     flex-grow: 1; 
     flex-basis: 0; 
     background: #F7D5ED; 
@@ -270,7 +270,7 @@ body {
     padding-top: 25px;
     color: #0A0931;
     line-height: 1.6;
-    text-align: center;
+    text-align: left;
     font-size: medium;
 }
 
@@ -278,7 +278,7 @@ body {
     width: 150px;
 }
 
-.logo-2 div {
+#Tenneco div {
     flex-grow: 1; 
     flex-basis: 0; 
     background: #F7D5ED; 
@@ -290,7 +290,7 @@ body {
     padding-top: 25px;
     color: #0A0931;
     line-height: 1.6;
-    text-align: center;
+    text-align: left;
     font-size: medium;
 }
 
@@ -299,7 +299,7 @@ body {
     float: left;
 }
 
-.logo-3 div {
+#MSU-CAS div {
     flex-grow: 1; 
     flex-basis: 0; 
     background: #F7D5ED; 
@@ -311,7 +311,7 @@ body {
     padding-top: 25px;
     color:#0A0931;
     line-height: 1.6;
-    text-align: center;
+    text-align: left;
     font-size: medium;
 }
 
