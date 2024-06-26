@@ -261,7 +261,7 @@ body {
     object-position: center;
 }
 
-.logo-1 {
+.logo-1 div {
     flex-grow: 1; 
     flex-basis: 0; 
     background: #F7D5ED; 
