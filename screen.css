@@ -84,6 +84,7 @@ body {
     padding-top: 25px;
     color:#0A0931;
     width: 500px;
+    height: 500px;
     float: left;
     line-height: 1.6;
     text-align: center;
@@ -107,6 +108,7 @@ body {
     padding-top: 25px;
     color:#0A0931;
     width: 500px;
+    height: 500px;
     float: right;
     line-height: 1.6;
     text-align: center;
