@@ -276,8 +276,8 @@ body {
 }
 
 .logo-1 img{
-    width: 100px;
-    object-position: left;
+    width: 150px;
+    float: left;
 }
 
 .logo-2 div {
@@ -297,7 +297,7 @@ body {
 }
 
 .logo-2 img{
-    width: 100px;
+    width: 150px;
     object-position: left;
 }
 
@@ -318,6 +318,6 @@ body {
 }
 
 .logo-3 img{
-    width: 100px;
+    width: 150px;
     object-position: left;
 }
