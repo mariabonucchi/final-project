@@ -54,7 +54,8 @@ body {
     background: #F7D5ED; 
     border-radius: 20px; 
     margin-top: 25px; 
-    color:#0A0931
+    color:#0A0931;
+    float: left;
 }
 
 .resume {
