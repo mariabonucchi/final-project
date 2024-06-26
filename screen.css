@@ -206,20 +206,6 @@ body {
 * insta page *
 
 
-.main h1 img{
-    width: 30px;
-    padding: 5px;
-}
-
-.insta #about-info {
-    color: #A7A6E3;
-    margin-left: 30px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    line-height: 2;
-    font-size: x-large;
-}
-
 .insta img {
     width: 150px;
     border-radius: 100000px;
