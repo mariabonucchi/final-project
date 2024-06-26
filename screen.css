@@ -145,7 +145,7 @@ body {
     text-align: center;
 }
 
-.instagram {
+.Insta {
     flex-grow: 1; 
     flex-basis: 0; 
     background: #F7D5ED; 
@@ -153,7 +153,37 @@ body {
     margin-top: 30px; 
     margin-left: 30px;
     padding-top: 25px;
-    color:#A7A6E3;
+    color:#0A0931;
+    width: 500px;
+    float: left;
+    line-height: 1.6;
+    text-align: center;
+}
+
+.FB {
+    flex-grow: 1; 
+    flex-basis: 0; 
+    background: #F7D5ED; 
+    border-radius: 15px; 
+    margin-top: 30px; 
+    margin-left: 30px;
+    padding-top: 25px;
+    color:#0A0931;
+    width: 500px;
+    float: left;
+    line-height: 1.6;
+    text-align: center;
+}
+
+.TT {
+    flex-grow: 1; 
+    flex-basis: 0; 
+    background: #F7D5ED; 
+    border-radius: 15px; 
+    margin-top: 30px; 
+    margin-left: 30px;
+    padding-top: 25px;
+    color:#0A0931;
     width: 500px;
     float: left;
     line-height: 1.6;
