@@ -9,7 +9,7 @@ main h1{
     background-color: #F7D5ED;
     color: #0A0931;
     padding-left: 30px;
-    font-size:larger;
+    font-size:xx-large
 }
 
 main nav{
@@ -33,7 +33,6 @@ main nav{
     float: right;
     margin-right: 30px;
     margin-top: 15px;
-    padding-bottom: 15px;
 }
 
 body {
@@ -66,7 +65,7 @@ body {
     background: #F7D5ED; 
     border-radius: 15px; 
     object-position: center;
-    margin-top: 40px; 
+    margin-top: 55px; 
     margin-left: 30px;
     margin-right: 30px;
     padding-top: 25px;
