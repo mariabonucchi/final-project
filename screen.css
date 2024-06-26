@@ -226,22 +226,31 @@ body {
 }
 
 .project-types h2{
+    background: #0A0931;
+    color:#0A0931;
+    padding: 15px;
+    background: #DBB3D0;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+}
+
+.project-types img{
+    width: 400px;
+    padding: 5px;
+    object-position: center;
+}
+
+.project-types div {
     flex-grow: 1; 
     flex-basis: 0; 
     background: #F7D5ED; 
     border-radius: 15px; 
-    object-position: center;
-    margin-top: 15px; 
+    margin-top: 30px; 
     margin-left: 30px;
-    margin-right: 30px;
-    padding-top: 25px;
     color:#0A0931;
+    width: 100%;
+    float: left;
     line-height: 1.6;
-    text-align: left;
-}
-
-.project-types img{
-    width: 200px;
-    padding: 5px;
-    object-position: center;
+    text-align: center;
 }
