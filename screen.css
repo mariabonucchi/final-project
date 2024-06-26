@@ -59,6 +59,10 @@ body {
     width: 100%
 }
 
+.intro{
+    height: 300px;
+}
+
 .bio {
     flex-grow: 1; 
     flex-basis: 0; 
@@ -84,7 +88,6 @@ body {
     padding-top: 25px;
     color:#0A0931;
     width: 500px;
-    height: 500px;
     float: left;
     line-height: 1.6;
     text-align: center;
@@ -108,7 +111,6 @@ body {
     padding-top: 25px;
     color:#0A0931;
     width: 500px;
-    height: 500px;
     float: right;
     line-height: 1.6;
     text-align: center;
