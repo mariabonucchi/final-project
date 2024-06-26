@@ -121,7 +121,7 @@ body {
 
 * social page *
 
-.socials {
+.sm{
     color: #A7A6E3;
     margin-left: 30px;
     padding-top: 30px;
@@ -129,18 +129,6 @@ body {
     line-height: 2;
     font-size: x-large;
     object-position: center;
-    flex-grow: 1; 
-    flex-basis: 0; 
-    background: #F7D5ED; 
-    border-radius: 15px; 
-    margin-top: 30px; 
-    margin-left: 30px;
-    padding-top: 25px;
-    color:#0A0931;
-    width: 500px;
-    float: left;
-    line-height: 1.6;
-    text-align: center;
 }
 
 .socials img{
@@ -156,5 +144,20 @@ body {
     background: #DBB3D0;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
+    text-align: center;
+}
+
+.instagram {
+    flex-grow: 1; 
+    flex-basis: 0; 
+    background: #F7D5ED; 
+    border-radius: 15px; 
+    margin-top: 30px; 
+    margin-left: 30px;
+    padding-top: 25px;
+    color:#0A0931;
+    width: 500px;
+    float: left;
+    line-height: 1.6;
     text-align: center;
 }
