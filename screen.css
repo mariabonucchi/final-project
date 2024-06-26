@@ -149,3 +149,12 @@ body {
     object-position: center;
 }
 
+.socials dropdown {
+    background: #0A0931;
+    color:#0A0931;
+    padding: 15px;
+    background: #DBB3D0;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    text-align: center;
+}
