@@ -207,7 +207,7 @@ body {
 * insta page *
 
 
-.insta section about-info {
+.about-info{
     color: #A7A6E3;
     margin-left: 30px;
     padding-top: 30px;
@@ -225,7 +225,7 @@ body {
     margin-top: 15px;
 }
 
-.WCSMO {
+#WCSMO {
     background: #0A0931;
     color:#0A0931;
     padding: 30px;
@@ -235,7 +235,7 @@ body {
     text-align: center;
 }
 
-.Tenneco {
+#Tenneco {
     background: #0A0931;
     color:#0A0931;
     padding: 30px;
@@ -245,7 +245,7 @@ body {
     text-align: center;
 }
 
-.MSU-CAS {
+#MSU-CAS {
     background: #0A0931;
     color:#0A0931;
     padding: 30px;
@@ -262,6 +262,38 @@ body {
 }
 
 .logo-1 div {
+    flex-grow: 1; 
+    flex-basis: 0; 
+    background: #F7D5ED; 
+    border-radius: 15px; 
+    object-position: center;
+    margin-top: 15px; 
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 25px;
+    color:#0A0931;
+    line-height: 1.6;
+    text-align: center;
+    font-size: medium;
+}
+
+.logo-2 div {
+    flex-grow: 1; 
+    flex-basis: 0; 
+    background: #F7D5ED; 
+    border-radius: 15px; 
+    object-position: center;
+    margin-top: 15px; 
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 25px;
+    color:#0A0931;
+    line-height: 1.6;
+    text-align: center;
+    font-size: medium;
+}
+
+.logo-3 div {
     flex-grow: 1; 
     flex-basis: 0; 
     background: #F7D5ED; 
