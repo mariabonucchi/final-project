@@ -58,7 +58,7 @@ body {
     float: left;
 }
 
-.resume {
+.resume #wrapper {
     flex-grow: 1; 
     flex-basis: 0; 
     background: #F7D5ED; 
@@ -67,6 +67,8 @@ body {
     color:#0A0931;
     padding: 0;
     float: center;
+    width: 512px;
+    margin: auto
 }
 
 .intro nav {
@@ -87,3 +89,7 @@ body {
     float: right;
 }
 
+#wrapper {
+    width: 512px;
+    margin: auto
+}
