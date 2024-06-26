@@ -66,6 +66,7 @@ body {
     margin-top: 25px; 
     color:#0A0931;
     padding: 0;
+    float: center;
 }
 
 .intro nav {
@@ -83,5 +84,6 @@ body {
     margin-top: 25px;
     color:#0A0931;
     padding: 0;
+    float: right;
 }
 
