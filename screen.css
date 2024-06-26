@@ -228,12 +228,13 @@ body {
 .project-types h2{
     background: #0A0931;
     color:#0A0931;
-    padding: 15px;
+    padding: 30px;
     background: #DBB3D0;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     text-align: center;
     margin-right: 30px;
+    width: 100%;
 }
 
 .project-types img{
@@ -242,7 +243,7 @@ body {
     object-position: center;
 }
 
-.project-types div {
+.project-types p {
     flex-grow: 1; 
     flex-basis: 0; 
     background: #F7D5ED; 
@@ -253,6 +254,6 @@ body {
     color:#0A0931;
     width: 100%;
     line-height: 1.6;
-    text-align: left;
-    font-size: small;
+    text-align: center;
+    font-size: medium;
 }
