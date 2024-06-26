@@ -25,7 +25,7 @@ main nav{
 
 .headshot img{
     width: 200px;
-    border-radius: 7000px;
+    border-radius: 10000px;
     display: block;
     float: right;
     margin-right: 15px;
@@ -47,7 +47,8 @@ body {
 .greeting {
     color: #A7A6E3;
     margin-left: 15px;
-    padding: 30px;
+    padding-top: 30px;
+    padding-bottom: 20px;
     line-height: 30px;
 }
 
@@ -66,6 +67,7 @@ body {
     float: left;
     width: 400px;
     line-height: 20px;
+    text-align: center;
 }
 
 .resume {
@@ -78,6 +80,8 @@ body {
     padding: 0;
     width: 400px;
     margin-left: 430px;
+    line-height: 20px;
+    text-align: center;
 }
 
 .intro nav {
@@ -85,6 +89,7 @@ body {
     background: #DBB3D0;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
+    text-align: center;
 }
 
 .social-media {
@@ -92,12 +97,14 @@ body {
     flex-basis: 0; 
     background: #F7D5ED; 
     border-radius: 15px; 
-    margin-top: 25px;
+    margin-top: auto;
     margin-right: 15px;
     color:#0A0931;
     padding: 0;
     float: right;
     width: 400px;
+    line-height: 20px;
+    text-align: center;
 }
 
 #wrapper {
