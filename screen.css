@@ -48,6 +48,10 @@ body {
     color: #A7A6E3
 }
 
+.intro img{
+    width: 100%
+}
+
 .bio {
     flex-grow: 1; 
     flex-basis: 0; 
@@ -56,7 +60,7 @@ body {
     margin-top: 25px; 
     color:#0A0931;
     float: left;
-    width: 580px;
+    width: 546px;
 }
 
 .resume {
@@ -67,8 +71,8 @@ body {
     margin-top: 25px; 
     color:#0A0931;
     padding: 0;
-    width: 580px;
-    margin-left: 610px;
+    width: 546px;
+    margin-left: 576px;
 }
 
 .intro nav {
@@ -87,7 +91,7 @@ body {
     color:#0A0931;
     padding: 0;
     float: right;
-    width: 580px;
+    width: 546px;
 }
 
 #wrapper {
