@@ -57,7 +57,8 @@ body {
 }
 
 .intro img{
-    width: 300px;
+    width: 200px;
+    padding: 5px;
     object-position: center;
 }
 
