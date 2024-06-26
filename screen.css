@@ -27,7 +27,7 @@ main nav{
 
 .headshot img{
     width: 150px;
-    border-radius: 10000px;
+    border-radius: 20000px;
     display: block;
     float: right;
     margin-right: 15px;
@@ -82,7 +82,7 @@ body {
     padding-top: 25px;
     color:#0A0931;
     width: 400px;
-    margin-left: 600px;
+    margin-left: 530px;
     line-height: 1.6;
     text-align: center;
 }
