@@ -43,7 +43,23 @@ body {
     color:#fff;
 }
 
-.greeting {
+.bio {
+    flex-grow: 1; 
+    flex-basis: 0; 
+    background: #f8b5e1; 
+    border-radius: 20px; 
+    margin-top: 25px; 
+}
+
+.resume {
+    flex-grow: 1; 
+    flex-basis: 0; 
+    background: #f8b5e1; 
+    border-radius: 20px; 
+    margin-top: 25px; 
+}
+
+.social-media {
     flex-grow: 1; 
     flex-basis: 0; 
     background: #f8b5e1; 
