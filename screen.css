@@ -59,10 +59,26 @@ body {
     margin-top: 25px; 
 }
 
+.resume nav {
+    flex-grow: 1; 
+    flex-basis: 0; 
+    background: #f79dc1; 
+    border-radius: 20px; 
+    margin-top: 25px; 
+}
+
 .social-media {
     flex-grow: 1; 
     flex-basis: 0; 
     background: #f8b5e1; 
+    border-radius: 20px; 
+    margin-top: 25px; 
+}
+
+.social-media nav {
+    flex-grow: 1; 
+    flex-basis: 0; 
+    background: #f79dc1; 
     border-radius: 20px; 
     margin-top: 25px; 
 }
