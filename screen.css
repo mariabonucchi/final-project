@@ -115,6 +115,14 @@ body {
 * social page *
 
 
+#sm{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: x-large;
+    text-align: center;
+    color: #A7A6E3;
+}
+
 .socials img{
     width: 200px;
     padding: 5px;
@@ -315,13 +323,6 @@ body {
 }
 
 .comments {
-    color:#0A0931;
-    padding: 15px;
-    background: #DBB3D0;
-    text-align: left;
-}
-
-#Tenneco.comments {
     color:#0A0931;
     padding: 15px;
     background: #DBB3D0;
