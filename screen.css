@@ -225,7 +225,7 @@ body {
     margin-top: 15px;
 }
 
-.project-types h2{
+.project-types{
     background: #0A0931;
     color:#0A0931;
     padding: 30px;
@@ -241,7 +241,7 @@ body {
     object-position: center;
 }
 
-.project-types p {
+.logo-1 {
     flex-grow: 1; 
     flex-basis: 0; 
     background: #F7D5ED; 
