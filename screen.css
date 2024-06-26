@@ -43,3 +43,10 @@ body {
     color:#fff;
 }
 
+.greeting {
+    flex-grow: 1; 
+    flex-basis: 0; 
+    background: #f8b5e1; 
+    border-radius: 20px; 
+    margin-top: 25px; 
+}
