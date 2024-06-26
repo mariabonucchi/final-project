@@ -60,10 +60,10 @@ body {
     background: #F7D5ED; 
     border-radius: 20px; 
     margin-top: 25px; 
-    margin-left: 15px
+    margin-left: 15px;
     color:#0A0931;
     float: left;
-    width: 500px;
+    width: 480px;
 }
 
 .resume {
@@ -74,8 +74,8 @@ body {
     margin-top: 25px; 
     color:#0A0931;
     padding: 0;
-    width: 500px;
-    margin-left: 530px;
+    width: 480px;
+    margin-left: 510px;
 }
 
 .intro nav {
@@ -95,7 +95,7 @@ body {
     color:#0A0931;
     padding: 0;
     float: right;
-    width: 500px;
+    width: 480px;
 }
 
 #wrapper {
