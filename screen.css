@@ -22,6 +22,7 @@ main nav{
 
 .topimg img{
     width: 30px;
+    padding: 5px;
 }
 
 .headshot img{
@@ -81,6 +82,7 @@ body {
     padding-top: 25px;
     color:#0A0931;
     width: 400px;
+    height: 358.312px;
     margin-left: 430px;
     line-height: 1.6;
     text-align: center;
@@ -104,6 +106,7 @@ body {
     padding-top: 25px;
     color:#0A0931;
     width: 400px;
+    height: 358.312px;
     line-height: 1.6;
     text-align: center;
     float: right;
