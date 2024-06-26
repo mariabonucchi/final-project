@@ -249,6 +249,7 @@ body {
     color:#0A0931;
     padding: 30px;
     background: #DBB3D0;
+    border-radius: 20px;
     text-align: center;
 }
 
@@ -272,6 +273,11 @@ body {
     line-height: 1.6;
     text-align: center;
     font-size: medium;
+}
+
+.logo-1 img{
+    width: 100px;
+    object-position: left;
 }
 
 .logo-2 div {
