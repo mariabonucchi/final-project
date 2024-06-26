@@ -241,6 +241,7 @@ body {
     background: #DBB3D0;
     border-radius: 20px;
     text-align: center;
+    margin-bottom: 15px;
 }
 
 #MSU-CAS {
@@ -322,6 +323,13 @@ body {
 }
 
 .comments {
+    color:#0A0931;
+    padding: 15px;
+    background: #DBB3D0;
+    text-align: center;
+}
+
+.comments-2 {
     color:#0A0931;
     padding: 15px;
     background: #DBB3D0;
