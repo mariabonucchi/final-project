@@ -138,7 +138,7 @@ body {
 .Insta h2 {
     background: #0A0931;
     color:#0A0931;
-    padding: 0px;
+    padding: 15px;
     background: #DBB3D0;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
@@ -152,7 +152,6 @@ body {
     border-radius: 15px; 
     margin-top: 30px; 
     margin-left: 30px;
-    padding-top: 25px;
     color:#0A0931;
     width: 400px;
     float: left;
