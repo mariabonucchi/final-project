@@ -296,6 +296,11 @@ body {
     font-size: medium;
 }
 
+.logo-2 img{
+    width: 100px;
+    object-position: left;
+}
+
 .logo-3 div {
     flex-grow: 1; 
     flex-basis: 0; 
@@ -310,4 +315,9 @@ body {
     line-height: 1.6;
     text-align: center;
     font-size: medium;
+}
+
+.logo-3 img{
+    width: 100px;
+    object-position: left;
 }
