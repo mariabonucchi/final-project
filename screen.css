@@ -277,7 +277,7 @@ body {
 
 .logo-1 img{
     width: 150px;
-    float: left;
+    object-position: left;
 }
 
 .logo-2 div {
