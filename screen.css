@@ -36,12 +36,12 @@ body {
     background: #0A0931;
     font-family: Helvetica, sans-serif;
     border-top: 15px solid #F7D5ED;
-    color:#fff;
+    color:#0A0931;
 }
 
 .intro nav {
     background: #0A0931;
-    color:#fff;
+    color:#0A0931;
 }
 
 .greeting {
@@ -63,7 +63,7 @@ body {
     margin-left: 15px;
     color:#0A0931;
     float: left;
-    width: 480px;
+    width: 400px;
 }
 
 .resume {
@@ -74,8 +74,8 @@ body {
     margin-top: 25px; 
     color:#0A0931;
     padding: 0;
-    width: 480px;
-    margin-left: 510px;
+    width: 400px;
+    margin-left: 430px;
 }
 
 .intro nav {
@@ -95,7 +95,7 @@ body {
     color:#0A0931;
     padding: 0;
     float: right;
-    width: 480px;
+    width: 400px;
 }
 
 #wrapper {
