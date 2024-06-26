@@ -225,7 +225,27 @@ body {
     margin-top: 15px;
 }
 
-.project-types{
+.WCSMO {
+    background: #0A0931;
+    color:#0A0931;
+    padding: 30px;
+    background: #DBB3D0;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+}
+
+.Tenneco {
+    background: #0A0931;
+    color:#0A0931;
+    padding: 30px;
+    background: #DBB3D0;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+}
+
+.MSU-CAS {
     background: #0A0931;
     color:#0A0931;
     padding: 30px;
