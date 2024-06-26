@@ -229,9 +229,9 @@ body {
     background: #0A0931;
     color:#0A0931;
     padding: 30px;
+    margin-bottom: 15px;
     background: #DBB3D0;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
+    border-radius: 20px;
     text-align: center;
 }
 
@@ -240,8 +240,7 @@ body {
     color:#0A0931;
     padding: 30px;
     background: #DBB3D0;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
+    border-radius: 20px;
     text-align: center;
 }
 
@@ -250,8 +249,6 @@ body {
     color:#0A0931;
     padding: 30px;
     background: #DBB3D0;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
     text-align: center;
 }
 
